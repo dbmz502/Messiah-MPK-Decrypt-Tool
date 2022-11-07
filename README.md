@@ -27,8 +27,3 @@ messiah-mpk <mpkinfo> <path to save>
 - [x] **MPK Archives** [messiah-mpk](mpk)
 - [x] **Resource Repositories** [messiah-resources](resources)
 - [x] **Python Scripts** [messiah-pyc](pyc)
-- [x] **Textures** *(partially)* [messiah-texture](texture)
-- [ ] **Models**
-- [ ] **Animations**
-- [ ] **Sounds**
-- [ ] **Material**
